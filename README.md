@@ -44,27 +44,27 @@ https://user-images.githubusercontent.com/122078276/210949177-1ef6574a-0fbf-4af5
 <br />a) Percobaan ini menggunakan metode Pulse Width Modulation yaitu pendekatan pelebaran pulsa yang menghasilkan nilai tegangan analog dengan maksimal tegangan HIGH 3,3 V dan LOW 0 V. Pin pada PWM mengeluarkan sinyal digital yang dihasilkan dari dutty cycle (perbandingan HIGH dan LOW dalam 1 periode). LED akan menyala 5x lebih terang. Karena terdapat delay 0,015 maka LED akan redup dengan kecepatan 0,015 detik, lalu kemudian akan terang kembali.
 
 
-https://user-images.githubusercontent.com/41616849/210594146-67ca2104-d142-4c0e-b0bc-d4fa10e2cd43.mp4
+https://user-images.githubusercontent.com/122078276/210949540-dc663221-323e-430a-bbe4-95353e4cfa8d.mp4
+
 
 
 b) Percobaan yang kedua hampir sama dengan PWM yang pertama, hanya saja menggunakan 3 LED.
 
-
-https://user-images.githubusercontent.com/41616849/210594291-96bc94ca-d5f1-46a4-bff5-d2414e2ad915.mp4
+https://user-images.githubusercontent.com/122078276/210949628-55bb2e75-587c-4bab-b029-bb1043e32e55.mp4
 
 
 **2) Mengakses ADC and DAC ESP32**  <br />
 <br /> a) Percobaan ini menggunakan potensiometer yang menghasilkan output apabila potensiometer diputar. Semakin ke kanan maka nilainya akan semakin bertambah dan sebaliknya.
 
 
-https://user-images.githubusercontent.com/41616849/210594800-01985bed-2938-4422-bb86-5ab85cb505a6.mp4
+https://user-images.githubusercontent.com/122078276/210949797-1fa572a3-5480-400b-8714-8686cbf6d06b.mp4
 
 
 b) Percobaan ini ditambahkan dengan LED dan GPIO. Ketika program ini dijalankan akan menghasilkan output apabila potensiometer diputar ke kanan maka lampu akan semakin terang nyala lampunya dan begitupun sebaliknya.
 
 
 
-https://user-images.githubusercontent.com/41616849/210594935-77f0a562-e881-4ac5-83e4-7f34aa354be5.mp4
+https://user-images.githubusercontent.com/122078276/210949889-c1b43c0d-ab8d-4f55-af86-b0f82bd720af.mp4
 
 
 
