@@ -25,19 +25,19 @@ selesai.
 **2) Mengakses GPIO ESP32**  <br />
 <br />a) Program ini bisa mengendalikan satu LED dengan push button dimana LED bisa menyala apabila push button ditekan dan akan mati apabila dilepaskan.
 
-https://drive.google.com/drive/folders/1m_OqCE34h81sQ4__owRJtAZ-jMwV6Pdu
+https://user-images.githubusercontent.com/122078276/210948786-52b5cba7-572d-4efb-aeb6-177b32088713.mp4
 
 b) Selanjtunya pada program GPIO yang kedua, ditambahkan 1 LED yang akan mati selama 5 setik dan menyala selama 5 detik. Apabila push button tetap ditekan tetapi waktu sudah habis, LED akan tetap mati.
 
+https://user-images.githubusercontent.com/122078276/210949101-4dfc7864-c88e-44f0-87d4-980e8606089a.mp4
 
-https://drive.google.com/drive/folders/1m_OqCE34h81sQ4__owRJtAZ-jMwV6Pdu
 
 
 c) Pada percobaan GPIO yang ketiga menggunakan 3 LED yang dikendalikan oleh satu push button. Saat push button ditekan maka LED akan menyala secara berurutan (continue).
 
 
 
-https://user-images.githubusercontent.com/41616849/210591690-27d3c8ef-ff01-4f26-b41a-040da53549f6.mp4
+https://user-images.githubusercontent.com/122078276/210949177-1ef6574a-0fbf-4af5-9188-dd6f7f38de73.mp4
 
 
 **2) Mengakses PWM ESP32**  <br />
